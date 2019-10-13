@@ -1,7 +1,3 @@
-body {
-    background-color: white;
-}
-
-.nav-wrapper {
-    color: black;
-}
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
